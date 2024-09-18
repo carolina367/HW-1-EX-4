@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 This is the seventh file in the repo. There are several spelling mistakes to fix.
+=======
+This is the seventh file in the rpoe. Ther are sevaral speling mstakes to fix.
+>>>>>>> Stashed changes
