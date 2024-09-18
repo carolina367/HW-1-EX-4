@@ -1,0 +1,4 @@
+This is the second file in the repo. There are several spelling mistakes to fix. --fixed by 447 (Rahul Singh)
+
+NOTE FOR GRADER: I fixed file29.txt because my secret stat id is 447 and one of the people in my group is 147 
+                 so we both would have to work on file47.txt; instead, I fixed this file.
